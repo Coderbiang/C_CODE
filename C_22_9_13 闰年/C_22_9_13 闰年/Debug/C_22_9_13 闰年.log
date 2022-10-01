@@ -1,0 +1,3 @@
+﻿  闰年.c
+D:\Users\maque\source\repos\C_22_9_13 闰年\C_22_9_13 闰年\闰年.c(8,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  C_22_9_13 闰年.vcxproj -> D:\Users\maque\source\repos\C_22_9_13 闰年\Debug\C_22_9_13 闰年.exe
